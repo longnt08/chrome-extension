@@ -1,4 +1,4 @@
-CHROME-EXTENSION
-#functions:
-#-clean up html
-#-compress html
+CHROME-EXTENSION<br>
+functions:<br>
+-clean up html<br>
+-compress html
